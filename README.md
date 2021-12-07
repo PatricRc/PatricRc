@@ -17,3 +17,6 @@ I'm a bachellor in economics with a deep interest and passion for data science. 
 -----
 
 **Tech Stack**
+----
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144943874-d3a9c020-1116-4e66-9e61-10bfffa0ed76.png?raw=true"></a>
+
