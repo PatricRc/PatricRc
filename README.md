@@ -11,8 +11,8 @@ I'm a bachellor in economics with a deep interest and passion for data science. 
 1. First time i wrote "Hello World" was on python
 2. Always in the mood for pizza
 3. Marvel geek! i never miss a new MCU movie
-4. I listen house music for almost everything
-5. Passionate for reading or researching new crypto projects
+4. I listen to house music for almost everything
+5. Passionate for new crypto projects and NFT's
 
 -----
 
