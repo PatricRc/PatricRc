@@ -18,5 +18,5 @@ I'm a bachellor in economics with a deep interest and passion for data science. 
 
 **Tech Stack**
 ----
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144943874-d3a9c020-1116-4e66-9e61-10bfffa0ed76.png?raw=true"></a>
+<a href="https://github.com/PatricRc/PatricRc"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144945162-709b50c2-9a97-4d26-a851-35e00524c5b6.png?raw=true"></a> <a href="https://github.com/PatricRc/PatricRc"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144945191-2b0281bf-2e84-4520-93ca-b602877340a0.png?raw=true"></a> <a href="https://github.com/PatricRc/PatricRc"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144945220-2a9ae0ed-9923-44fd-a0f3-055169f7aefe.png?raw=true"></a> <a href="https://github.com/PatricRc/PatricRc"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144945227-6c091c81-6cfa-48f6-a8b9-16eb41bf75e0.jpg?raw=true"></a> <a href="https://github.com/PatricRc/PatricRc"><img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/85771918/144945783-bec4247c-974c-48b9-8d8c-b09fb2647410.png?raw=true"></a>
 
