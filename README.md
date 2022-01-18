@@ -1,4 +1,4 @@
-![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (1)](https://user-images.githubusercontent.com/85771918/149958496-399b8e13-5659-4da0-b378-27575cdd525a.png)
+![Azul Amarillo Tecnología LinkedIn Banner (4)](https://user-images.githubusercontent.com/85771918/149958701-a19e7af8-1666-4aff-bd1e-d78b3d7a2212.png)
 
 
 ### Hello world i'm Patricio 👋
